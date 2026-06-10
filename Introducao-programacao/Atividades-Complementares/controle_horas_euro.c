@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Definição de cores para facilitar o uso
 #define VERDE    "\x1b[32m"
 #define AMARELO  "\x1b[33m"
 #define RESET    "\x1b[0m"
@@ -50,7 +49,7 @@ int main() {
             for (i = 0; i < 31; i++) {
                 if (horas_diarias[i] > 0) {
                     float ganho_dia = horas_diarias[i] * valor_hora;
-                    // O valor em Euros sairá em VERDE
+                   
                     printf("\n| Dia %02d: %4.1f horas  | Ganho: %sEUR %-10.2f%s      |", i + 1, horas_diarias[i], VERDE, ganho_dia, RESET);
                     
                     total_horas += horas_diarias[i];
