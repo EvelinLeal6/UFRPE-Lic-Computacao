@@ -10,7 +10,7 @@ Atualmente, o repositório está organizado nas seguintes pastas:
 * **`📂 Sistema-Seguranca`**: Algoritmo estruturado para processamento estatístico de dados de segurança pública da cidade de Recife.
 * **`📂 Pesquisa-UPA`**: Sistema de triagem hospitalar com filtros complexos de dados e tratamento de exceções de entrada.
 * **`📂 Preco-Cavalo`**: Software de precificação agropecuária utilizando matrizes de decisão com condicionais aninhadas.
-* **`📂 Atividades-Complementares`**: Projetos autorais e extras desenvolvidos fora do escopo obrigatório, como o painel interativo de finanças pessoais utilizando Structs e códigos ANSI.
+* **`📂 Atividades-Complementares`**: Projetos autorais e extras desenvolvidos fora do escopo obrigatório.
 
 ---
 *Desenvolvido com dedicação por Evelin Leal.*
