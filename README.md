@@ -13,4 +13,4 @@ Atualmente, o repositório está organizado nas seguintes pastas:
 * **`📂 Atividades-Complementares`**: Projetos autorais e extras desenvolvidos fora do escopo obrigatório.
 
 ---
-*Desenvolvido com dedicação por Evelin Leal.*
+*Desenvolvido por Evelin Leal.*
