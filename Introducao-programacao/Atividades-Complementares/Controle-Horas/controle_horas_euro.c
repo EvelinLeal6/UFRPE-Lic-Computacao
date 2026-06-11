@@ -9,7 +9,7 @@ int main() {
     int dia, i, opcao;
     int dias_trabalhados = 0; 
     float total_horas = 0, total_ganho = 0;
-    float valor_hora = 13.5; 
+    float valor_hora = 15.5; 
 
     for (i = 0; i < 31; i++) {
         horas_diarias[i] = 0;
